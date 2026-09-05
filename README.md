@@ -62,11 +62,14 @@ A lot of my work starts with a simple question:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Sajannavar&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajannavar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Shubham's GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajannavar&layout=compact&hide_border=true&count_private=true" alt="Top languages" height="170">
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sajannavar&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Sajannavar&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Sajannavar&hide_border=true" alt="GitHub streak" height="170">
+</p>
 
 ## Connect
 
