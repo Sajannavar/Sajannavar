@@ -2,25 +2,25 @@
 
 **DevOps Engineer | AWS | Terraform | Ansible | Jenkins | Linux**
 
-I'm a DevOps Engineer at Netcracker Technology, working mainly around infrastructure, deployments, automation and production support.
+I'm a DevOps Engineer with hands-on experience in infrastructure, deployments, automation and production support.
 
 I work with AWS, OpenStack, Linux, Terraform, Ansible, Jenkins, Docker and databases. I also have a background in Oracle database administration and production operations.
 
-Outside of work, I spend time building my own projects and learning new technologies.
+Outside of work, I enjoy building my own projects, automating repetitive tasks and learning new technologies.
 
-## About
+## 👨‍💻 About Me
 
-- DevOps / Technology Engineer at Netcracker Technology
+- DevOps / Technology Engineer with experience in enterprise environments
 - AWS and OpenStack infrastructure
 - Infrastructure automation with Terraform and Ansible
 - CI/CD with Jenkins and Git
 - Linux, Docker, Nginx and Shell scripting
 - Oracle, PostgreSQL and MariaDB
-- Production troubleshooting and incident analysis
+- Production troubleshooting, incident analysis and automation
 - Currently learning Kubernetes, Helm and GitHub Actions
 - Interested in DevOps, Cloud, Platform Engineering and SRE
 
-## Projects
+## 🔨 Projects
 
 ### Workova Vault
 
@@ -38,7 +38,7 @@ It focuses on market data, historical prices, technical analysis, trading strate
 
 **Stack:** Python, FastAPI, PostgreSQL, Redis, AWS, Nginx
 
-## Technologies
+## 🛠️ Technologies
 
 **Cloud:** AWS, OpenStack
 
@@ -52,7 +52,7 @@ It focuses on market data, historical prices, technical analysis, trading strate
 
 **Currently learning:** Kubernetes, Helm, GitHub Actions, Platform Engineering
 
-## What I Like Working On
+## 💡 What I Like Working On
 
 I enjoy automating repetitive work, troubleshooting production issues and finding simpler ways to manage infrastructure.
 
@@ -60,7 +60,7 @@ A lot of my work starts with a simple question:
 
 > Can this be automated?
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sajannavar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Shubham's GitHub stats" height="170">
@@ -71,9 +71,11 @@ A lot of my work starts with a simple question:
   <img src="https://streak-stats.demolab.com/?user=Sajannavar&hide_border=true" alt="GitHub streak" height="170">
 </p>
 
-## Connect
+## 🌐 Connect
 
-[LinkedIn](https://linkedin.com/in/Sajannavar) · [Instagram](https://instagram.com/shubham.sajannavar) · [Email](mailto:shubham.dsajannavar@gmail.com)
+<a href="https://linkedin.com/in/Sajannavar">LinkedIn</a> ·
+<a href="https://instagram.com/shubham.sajannavar">Instagram</a> ·
+<a href="mailto:shubham.dsajannavar@gmail.com">Email</a>
 
 ---
 
